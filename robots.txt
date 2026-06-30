@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fa-rquebous-tal.github.io/web-resources/sitemap.xml
